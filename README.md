@@ -1,9 +1,7 @@
 # 🏆 ICT Convergence Hackathon - Intelligent Kiosk System
 
 **6th ICT Convergence Hackathon - Design Excellence Award (2021)**  
-*High School Project - Team Leader & UX Strategy Director*
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logobadge/opencv-%23white.svg?style=for-the-badge&logo=opencvbadge/tkinter-FF6B35?style=for-the-badge&logo 개요
+*High School Project - Team Leader*
 
 이 프로젝트는 **2021년 제6회 ICT융합 해커톤**에서 **디자인 우수상**을 수상한 시각장애인을 위한 지능형 키오스크 시스템입니다. 고등학교 재학 중 팀 리더로 참여하여 개발한 프로젝트로, 접근성과 사용자 경험에 중점을 둔 혁신적인 솔루션입니다.
 
