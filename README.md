@@ -71,7 +71,7 @@
 
 ## 🛠️ 기술 스택
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=badge/OpenCV-27338e?style=for-the-badge&logo=OpenCVbadge/Tkinter-FF6B6B?style=for-the-badge&logo=
+- *Python* - pandas, AI api .etc
 - **Google Speech Recognition API** - 음성 인식
 - **DNN 모델** - 딥러닝 기반 얼굴 분석
 
