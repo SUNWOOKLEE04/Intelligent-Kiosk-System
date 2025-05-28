@@ -1,10 +1,10 @@
 # 🍔 Intelligent Kiosk System
-### 시각장애인을 위한 지능형 키오스크
+### 시각장애인을 위한 지능형 키오스크 (KFE)
 
 
 
-![Hackathon Winner](https://img.shields.io/badge/🏆_Hackathon-Design_Excellence_Award-gold?style=for/img.elds.io/badge톤 디자인 우수상 🏆**  
-*고등학교 재학 중 팀 리더 & UX 전략 디렉터로 참여*
+**6th ICT Convergence Hackathon - Design Excellence Award**  
+*고등학교 재학 중 팀 리더 & 개발 총괄로 참여*
 
 
 
@@ -397,17 +397,11 @@ pip install opencv-python==4.8.1.78
 - 👥 팀 리더십 경험
 
 
-
-
 #### 🔧 아쉬운 점  
 - 💻 고등학생 수준의 코드 품질
 - 🧪 현재 환경 작동 미확인
 - 🎯 일부 기능 미완성
 - 📚 문서화 부족
-
-
-
-
 
 
 
