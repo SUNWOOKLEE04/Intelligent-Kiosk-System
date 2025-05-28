@@ -225,7 +225,7 @@ pip install --upgrade -r requirements.txt
 ⚠️ 상업적 사용 시에는 별도 연락 바랍니다.
 
 ## 📞 연락처
-<div align="center">
+<div align="left">
   <a href="mailto:developsun04@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
